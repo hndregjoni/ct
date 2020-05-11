@@ -6,7 +6,7 @@ show_help () {
   cat <<EOF
 Contextual terminal.
 
-Scripts that launchers the terminal, tries to
+Scripts that launches the terminal, tries to
 get cwd from active window.
 
 Options:
